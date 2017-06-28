@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "caseymccaskill",
+    "password": null,
+    "database": "todos",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "caseymccaskill",
+    "password": null,
+    "database": "todos",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "caseymccaskill",
+    "password": null,
+    "database": "todos",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
